@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# 📑 Lista-de-Afazeres
+# 📑 Lista De Afazeres
 
 ## _Exemplo simples de como fazer um TODOLIST, ou, Lista de Afazeres!_
 
